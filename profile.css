@@ -1,0 +1,63 @@
+/* start admin1 */
+.user-profile .admin{
+    border: 5px solid rgb(242 242 242);
+    margin-top: 35px;
+    margin-bottom: 35px;
+    padding: 50px;
+}
+@media only screen and (max-width: 768px) {
+    .user-profile .admin .right .col-md-3 {
+      text-align: center;
+    }
+  }
+.user-profile .admin .row-one{
+    margin-bottom: 20px;
+}
+.icons-contacts .one-icon {
+    border: 2px solid rgb(224 224 224);
+    margin: 0 10px;
+    padding: 15px;
+    width: 130px;
+    height: 153px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .icons-contacts .special  {
+    border: 2px solid rgb(224 224 224);
+    border-bottom: 6px solid rgb(1 124 194);
+    margin: 0 10px;
+    padding: 15px;
+    width: 130px;
+    height: 153px;
+    margin-top: 32px;
+    margin-bottom: 20px;
+  }
+  .icons-contacts .one-icon h6 {
+    padding-top: 18px ;
+  }
+  /* end admin1 */
+
+  /* start admin2 */
+  .icons-contacts .one-icon2 {
+    
+    margin: 0 10px;
+    padding: 15px;
+    width: 120px;
+    height: 153px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .icons-contacts .special2  {
+    border-bottom: 6px solid rgb(1 124 194);
+    margin: 0 10px;
+    padding: 15px;
+    width: 120px;
+    height: 153px;
+    margin-top: 32px;
+    margin-bottom: 20px;
+  }
+  .icons-contacts .one-icon2 h6 {
+    padding-top: 18px ;
+  }
+  /* end admin2 */
+  
